@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubernetes-apiserver:v1.13.1   
-MAINTAINER zjjfly  
+FROM gcr.io/google_containers/kube-apiserver:v1.13.1   
+MAINTAINER zjjfly
