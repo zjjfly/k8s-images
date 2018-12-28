@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/coredns:v1.2.6   
+FROM gcr.io/google_containers/coredns:1.2.6   
 MAINTAINER zjjfly
